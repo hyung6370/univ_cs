@@ -1,5 +1,9 @@
 # MIPS-Pipeline-Simulator
 
+### ref)
+# university Computer Structures class HW
+## Pipeline Simulator HW
+
 This program implement the simple MIPS pipeline, including the following instructions `"lw"`, `"sw"`, `"add"`, `"addi"`, `"sub"`, `"and"`, `"andi"`, `"or"`, `"slt"`, `"bne"`.
 In addition to the instructions, it also support detecting and dealing `"data hazard"`, `"hazard with load"`, `"branch hazard"`.
 
